@@ -1,4 +1,3 @@
-package com.ccx.credit.util;
 
 import java.lang.reflect.Method;
 import java.text.DecimalFormat;
